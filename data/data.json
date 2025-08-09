@@ -1,0 +1,12 @@
+[
+  {
+    "id": "acta-01",
+    "titulo": "Acta de inicio del proyecto",
+    "semana": 1,
+    "roles": ["general"],
+    "tipo": "pdf",
+    "ruta": "docs/acta1.pdf",
+    "destacado": true,
+    "fecha": "2025-08-06"
+  }
+]
