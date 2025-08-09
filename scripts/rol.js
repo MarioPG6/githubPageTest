@@ -55,7 +55,7 @@ if (rolesInfo[roleKey]) {
 }
 
 // Manejo de archivos
-document.addEventListener("change", function(e) {
+document.addEventListener("change", function (e) {
   if (e.target.id === "file-input") {
     const file = e.target.files[0];
     const preview = document.getElementById("file-preview");
