@@ -5,10 +5,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Documentos por Rol</title>
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-  <h1 id="titulo">Documentos</h1>
-  <div id="lista"></div>
+
+  <!-- Barra superior -->
+  <header id="main-header">
+    Seguimiento Semanal - Información General
+  </header>
+
+  <nav>
+    <a href="rol.html?role=general"><i class="fa-solid fa-house"></i> General</a>
+    <a href="rol.html?role=lider-de-equipo"><i class="fa-solid fa-users"></i> Líder de Equipo</a>
+    <a href="rol.html?role=lider-de-planeacion"><i class="fa-solid fa-calendar-check"></i> Líder de Planeación</a>
+    <a href="rol.html?role=lider-de-calidad"><i class="fa-solid fa-circle-check"></i> Líder de Calidad</a>
+    <a href="rol.html?role=lider-de-soporte"><i class="fa-solid fa-headset"></i> Líder de Soporte</a>
+    <a href="rol.html?role=lider-de-desarrollo"><i class="fa-solid fa-code"></i> Líder de Desarrollo</a>
+  </nav>
+
+  <!-- Contenido -->
+  <main>
+    <h2 id="titulo"></h2>
+    <div id="lista"></div>
+  </main>
 
   <script src="scripts/script.js"></script>
 </body>
