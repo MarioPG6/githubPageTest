@@ -29,13 +29,58 @@ fetch("data/data.json")
     filtrados.forEach(doc => {
       const card = document.createElement("div");
       card.className = `card ${doc.destacado ? "destacado" : ""}`;
+
+      let previewLink = doc.ruta;
+      let downloadLink = doc.ruta;
+
+      // --- Archivos de Google Drive (PDF, imágenes, videos) ---
+      if (doc.ruta.includes("drive.google.com")) {
+        const match = doc.ruta.match(/[-\w]{25,}/);
+        if (match) {
+          const fileId = match[0];
+          previewLink = `https://drive.google.com/file/d/${fileId}/preview`;
+          downloadLink = `https://drive.google.com/uc?export=download&id=${fileId}`;
+        }
+      }
+
+      // --- Documentos de Google Docs ---
+      if (doc.ruta.includes("docs.google.com/document")) {
+        const match = doc.ruta.match(/[-\w]{25,}/);
+        if (match) {
+          const fileId = match[0];
+          previewLink = `https://docs.google.com/document/d/${fileId}/preview`;
+          downloadLink = `https://docs.google.com/document/d/${fileId}/export?format=pdf`;
+        }
+      }
+
+      // --- Hojas de cálculo de Google Sheets ---
+      if (doc.ruta.includes("docs.google.com/spreadsheets")) {
+        const match = doc.ruta.match(/[-\w]{25,}/);
+        if (match) {
+          const fileId = match[0];
+          previewLink = `https://docs.google.com/spreadsheets/d/${fileId}/preview`;
+          downloadLink = `https://docs.google.com/spreadsheets/d/${fileId}/export?format=pdf`;
+        }
+      }
+
+      // --- Presentaciones de Google Slides ---
+      if (doc.ruta.includes("docs.google.com/presentation")) {
+        const match = doc.ruta.match(/[-\w]{25,}/);
+        if (match) {
+          const fileId = match[0];
+          previewLink = `https://docs.google.com/presentation/d/${fileId}/preview`;
+          downloadLink = `https://docs.google.com/presentation/d/${fileId}/export/pdf`;
+        }
+      }
+
+      // Renderizar tarjeta
       card.innerHTML = `
         <h3>${doc.titulo}</h3>
         <p><b>Semana:</b> ${doc.semana}</p>
-        <iframe src="${doc.ruta}" class="visor"></iframe>
+        <iframe src="${previewLink}" class="visor"></iframe>
         <div class="botones">
-          <a href="${doc.ruta}" target="_blank" class="btn abrir">Abrir</a>
-          <a href="${doc.ruta}" download class="btn descargar">Descargar</a>
+          <a href="${previewLink}" target="_blank" class="btn abrir">Abrir</a>
+          <a href="${downloadLink}" target="_blank" class="btn descargar">Descargar</a>
         </div>
       `;
       document.getElementById("lista").appendChild(card);

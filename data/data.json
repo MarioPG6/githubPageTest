@@ -1,12 +1,22 @@
 [
   {
-    "id": "acta-01",
-    "titulo": "Acta de inicio del proyecto",
+    "id": "doc-google-docs",
+    "titulo": "Acta de Iniciación",
     "semana": 1,
     "roles": ["general"],
-    "tipo": "pdf",
-    "ruta": "docs/acta1.pdf",
-    "destacado": true,
-    "fecha": "2025-08-06"
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/1Zn01U5XmAC4Dmfpl5OXD0UvqEqSDBFYu/edit?usp=sharing",
+    "destacado": false,
+    "fecha": "2025-08-08"
+  }
+  ,
+  {
+    "id": "sheet-01",
+    "titulo": "Manejador de versiones",
+    "roles": ["lider-de-soporte"],
+    "tipo": "google-sheet",
+    "ruta": "https://docs.google.com/spreadsheets/d/10v7Ku5rfZRWf31w35JUepRF8TKDmKp-RiQjegqD6aEM/edit?usp=drive_link",
+    "destacado": false,
+    "fecha": "2025-08-08"
   }
 ]
