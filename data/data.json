@@ -1,22 +1,115 @@
 [
   {
-    "id": "doc-google-docs",
+    "id": "G1-Acta",
     "titulo": "Acta de Iniciación",
     "semana": 1,
-    "roles": ["general"],
+    "roles": [
+      "general"
+    ],
     "tipo": "google-doc",
     "ruta": "https://docs.google.com/document/d/1Zn01U5XmAC4Dmfpl5OXD0UvqEqSDBFYu/edit?usp=sharing",
     "destacado": false,
-    "fecha": "2025-08-08"
-  }
-  ,
+    "fecha": "2025-08-11"
+  },
   {
-    "id": "sheet-01",
+    "id": "G2-Script",
+    "titulo": "Script definición de procesos",
+    "semana": 1,
+    "roles": [
+      "general"
+    ],
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/1CEqTe1KmLmPv2eibm6PjeTLCO4Lyv8FX/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  },
+  {
+    "id": "LS1-Versiones",
     "titulo": "Manejador de versiones",
-    "roles": ["lider-de-soporte"],
+    "semana": 1,
+    "roles": [
+      "lider-de-soporte"
+    ],
     "tipo": "google-sheet",
     "ruta": "https://docs.google.com/spreadsheets/d/10v7Ku5rfZRWf31w35JUepRF8TKDmKp-RiQjegqD6aEM/edit?usp=drive_link",
     "destacado": false,
-    "fecha": "2025-08-08"
+    "fecha": "2025-08-11"
+  },
+  {
+    "id": "LS2-bitacora",
+    "titulo": "Bitácora de tiempos - Soporte",
+    "semana": 1,
+    "roles": [
+      "lider-de-soporte"
+    ],
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/1QYjkPnfJBl9gEog5bEz3gLj6EtHo7hNz/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+    "destacado": false,
+    "fecha": "2025-08-11"
   }
+  ,
+  {
+    "id": "LP1-bitacora",
+    "titulo": "Bitácora de tiempos - Planeación",
+    "semana": 1,
+    "roles": ["lider-de-planeacion"],
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/14gYUM59Tym18RsEp0VB-2t8UCNPpD_U3/edit?usp=drive_link",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  },
+  {
+    "id": "LP2-asignaciones",
+    "titulo": "Control de asignaciones",
+    "semana": 1,
+    "roles": ["lider-de-planeacion"],
+    "tipo": "google-sheet",
+    "ruta": "https://docs.google.com/spreadsheets/d/1FYyyYsu0UmB4MSzZ-9-NARnTK7f01Aqk/edit?usp=drive_link",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  }
+  ,
+  {
+    "id": "LE1-bitacora",
+    "titulo": "Bitácora de tiempos - Lider de equipo",
+    "semana": 1,
+    "roles": ["lider-de-equipo"],
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/1rl6O2C2Xmyeq4QsMWqqSdoGD5WG0VDfm/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  }
+  ,
+    {
+    "id": "LD1-bitacora",
+    "titulo": "Bitácora de tiempos - Lider de desarrollo",
+    "semana": 1,
+    "roles": ["lider-de-desarrollo"],
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/14gYUM59Tym18RsEp0VB-2t8UCNPpD_U3/edit?usp=drive_link",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  }
+  ,
+  {
+    "id": "LC1-bitacora",
+    "titulo": "Bitácora de tiempos - Lider de calidad",
+    "semana": 1,
+    "roles": ["lider-de-calidad"],
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/1BRs-HRE52k4c7UbuZ26F5FgE5lUG8ymv/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  },
+  {
+    "id": "LC2-defectos",
+    "titulo": "log de defectos",
+    "semana": 1,
+    "roles": ["lider-de-calidad"],
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/1OT5ZbmZj3uoM7D3_KePXH5fXbRwBjqsC/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  }
+
 ]
