@@ -138,3 +138,55 @@ header {
   height: auto;
 }
 
+.card {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 900px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+  border-left: 6px solid #00994d; /* Borde verde para destacar */
+}
+
+.card h2 {
+  margin-top: 0;
+  color: #006b3c;
+}
+
+.card-inner {
+  background: #f9fff9;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border: 1px solid #e0f2e0;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+body {
+  background: linear-gradient(180deg, #f4fdf4, #eafaea);
+}
+
+.enlace-plantillas {
+  display: inline-block;
+  background: #00994d;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  transition: background 0.3s ease;
+}
+
+.enlace-plantillas:hover {
+  background: #007a3d;
+}
+
+
