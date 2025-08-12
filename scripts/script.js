@@ -6,7 +6,7 @@ const role = params.get("role") || "general";
 document.getElementById("titulo").textContent = `Documentos para: ${role}`;
 
 // Cargar el archivo JSON con los documentos
-fetch("data/data.json")
+fetch("./data/data.json")
   .then(response => {
     if (!response.ok) {
       throw new Error(`Error al cargar data.json: ${response.status}`);
