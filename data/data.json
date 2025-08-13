@@ -24,18 +24,6 @@
     "fecha": "2025-08-11"
   },
   {
-    "id": "LS1-Versiones",
-    "titulo": "Manejador de versiones",
-    "semana": 1,
-    "roles": [
-      "lider-de-soporte"
-    ],
-    "tipo": "google-sheet",
-    "ruta": "https://docs.google.com/spreadsheets/d/10v7Ku5rfZRWf31w35JUepRF8TKDmKp-RiQjegqD6aEM/edit?usp=drive_link",
-    "destacado": false,
-    "fecha": "2025-08-11"
-  },
-  {
     "id": "LS2-bitacora",
     "titulo": "Bitácora de tiempos - Soporte",
     "semana": 1,
@@ -48,6 +36,18 @@
     "fecha": "2025-08-11"
   }
   ,
+  {
+    "id": "LS1-Versiones",
+    "titulo": "Manejador de versiones",
+    "semana": 1,
+    "roles": [
+      "lider-de-soporte"
+    ],
+    "tipo": "google-sheet",
+    "ruta": "https://docs.google.com/spreadsheets/d/10v7Ku5rfZRWf31w35JUepRF8TKDmKp-RiQjegqD6aEM/edit?usp=drive_link",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  },
   {
     "id": "LP1-bitacora",
     "titulo": "Bitácora de tiempos - Planeación",
