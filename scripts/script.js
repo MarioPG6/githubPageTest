@@ -76,7 +76,7 @@ fetch("./data/data.json")
       // Renderizar tarjeta
       card.innerHTML = `
         <h3>${doc.titulo}</h3>
-        <p><b>Semana:</b> ${doc.semana}</p>
+        <p><b>Versión:</b> ${parseFloat(doc.version).toFixed(1)}</p>
         <iframe src="${previewLink}" class="visor"></iframe>
         <div class="botones">
           <a href="${previewLink}" target="_blank" class="btn abrir">Abrir</a>
