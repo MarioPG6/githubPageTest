@@ -25,13 +25,26 @@
   },
   {
     "id": "LS2-bitacora",
-    "titulo": "Bitácora de tiempos - Soporte",
+    "titulo": "Bitácora de tiempos - Lider de soporte",
     "version": 1.0,
     "roles": [
       "lider-de-soporte"
     ],
     "tipo": "google-doc",
     "ruta": "https://docs.google.com/document/d/1QYjkPnfJBl9gEog5bEz3gLj6EtHo7hNz/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  }
+  ,
+  {
+    "id": "LS3-defectos",
+    "titulo": "log de defectos - Lider de soporte",
+    "version": 1.0,
+    "roles": [
+      "lider-de-soporte"
+    ],
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/1T03nKCpnK4N04pCjiufVPvnfAIoFW8M2/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
     "destacado": false,
     "fecha": "2025-08-11"
   }
@@ -50,7 +63,7 @@
   },
   {
     "id": "LP1-bitacora",
-    "titulo": "Bitácora de tiempos - Planeación",
+    "titulo": "Bitácora de tiempos - Lider de Planeación",
     "version": 1.0,
     "roles": ["lider-de-planeacion"],
     "tipo": "google-doc",
@@ -58,6 +71,17 @@
     "destacado": false,
     "fecha": "2025-08-11"
   },
+  {
+    "id": "LP2-defectos",
+    "titulo": "log de defectos - Lider de planeación",
+    "version": 1.0,
+    "roles": ["lider-de-planeacion"],
+    "tipo": "google-sheet",
+    "ruta": "https://docs.google.com/document/d/1rkpUieJ5GcAvWBL3TEbZFNfu9KfVe5jZ/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  }
+  ,
   {
     "id": "LP2-asignaciones",
     "titulo": "Control de asignaciones",
@@ -80,6 +104,17 @@
     "fecha": "2025-08-11"
   }
   ,
+  {
+    "id": "LE2-defectos",
+    "titulo": "log de defectos - Lider de equipo",
+    "version": 1.0,
+    "roles": ["lider-de-equipo"],
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/1D9OAFvw31kiqlMmgehpNaWlgrUyJz5IF/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  }
+  ,
     {
     "id": "LD1-bitacora",
     "titulo": "Bitácora de tiempos - Lider de desarrollo",
@@ -87,6 +122,17 @@
     "roles": ["lider-de-desarrollo"],
     "tipo": "google-doc",
     "ruta": "https://docs.google.com/document/d/1A2ElC3gOGm_0NeijLXxxHtL-4LA5UysD/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+    "destacado": false,
+    "fecha": "2025-08-11"
+  }
+,
+  {
+    "id": "LD2-defectos",
+    "titulo": "log de defectos - Lider de desarrollo",
+    "version": 1.0,
+    "roles": ["lider-de-desarrollo"],
+    "tipo": "google-doc",
+    "ruta": "https://docs.google.com/document/d/1j7rzxL861R0U0adXVgS9KB9hJXRAdlx8/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
     "destacado": false,
     "fecha": "2025-08-11"
   }
@@ -103,11 +149,11 @@
   },
   {
     "id": "LC2-defectos",
-    "titulo": "log de defectos",
+    "titulo": "log de defectos - Lider de calidad",
     "version": 1.0,
     "roles": ["lider-de-calidad"],
     "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1OT5ZbmZj3uoM7D3_KePXH5fXbRwBjqsC/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+    "ruta": "https://docs.google.com/document/d/1k6KRDopaxlaj7GuyRqJuBmE0XEqFp6HJ/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
     "destacado": false,
     "fecha": "2025-08-11"
   }
