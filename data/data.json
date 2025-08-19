@@ -37,19 +37,6 @@
   }
   ,
   {
-    "id": "LS3-defectos",
-    "titulo": "log de defectos - Lider de soporte",
-    "version": 1.0,
-    "roles": [
-      "lider-de-soporte"
-    ],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1T03nKCpnK4N04pCjiufVPvnfAIoFW8M2/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-08-11"
-  }
-  ,
-  {
     "id": "LS1-Versiones",
     "titulo": "Manejador de versiones",
     "version": 1.0,
@@ -72,17 +59,6 @@
     "fecha": "2025-08-11"
   },
   {
-    "id": "LP2-defectos",
-    "titulo": "log de defectos - Lider de planeación",
-    "version": 1.0,
-    "roles": ["lider-de-planeacion"],
-    "tipo": "google-sheet",
-    "ruta": "https://docs.google.com/document/d/1rkpUieJ5GcAvWBL3TEbZFNfu9KfVe5jZ/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-08-11"
-  }
-  ,
-  {
     "id": "LP2-asignaciones",
     "titulo": "Control de asignaciones",
     "version": 1.0,
@@ -104,17 +80,6 @@
     "fecha": "2025-08-11"
   }
   ,
-  {
-    "id": "LE2-defectos",
-    "titulo": "log de defectos - Lider de equipo",
-    "version": 1.0,
-    "roles": ["lider-de-equipo"],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1D9OAFvw31kiqlMmgehpNaWlgrUyJz5IF/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-08-11"
-  }
-  ,
     {
     "id": "LD1-bitacora",
     "titulo": "Bitácora de tiempos - Lider de desarrollo",
@@ -127,17 +92,6 @@
   }
 ,
   {
-    "id": "LD2-defectos",
-    "titulo": "log de defectos - Lider de desarrollo",
-    "version": 1.0,
-    "roles": ["lider-de-desarrollo"],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1j7rzxL861R0U0adXVgS9KB9hJXRAdlx8/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-08-11"
-  }
-  ,
-  {
     "id": "LC1-bitacora",
     "titulo": "Bitácora de tiempos - Lider de calidad",
     "version": 1.0,
@@ -149,7 +103,7 @@
   },
   {
     "id": "LC2-defectos",
-    "titulo": "log de defectos - Lider de calidad",
+    "titulo": "log de defectos - (semana 1)",
     "version": 1.0,
     "roles": ["lider-de-calidad"],
     "tipo": "google-doc",
