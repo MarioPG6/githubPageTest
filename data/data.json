@@ -54,7 +54,7 @@
     "version": 1.0,
     "roles": ["lider-de-planeacion"],
     "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/14gYUM59Tym18RsEp0VB-2t8UCNPpD_U3/edit?usp=drive_link",
+    "ruta": "https://docs.google.com/document/d/1TxC_lBpPEvzBl1YkW4LoiXb2jr_gusHf/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
     "destacado": false,
     "fecha": "2025-08-11"
   },
@@ -64,7 +64,7 @@
     "version": 1.0,
     "roles": ["lider-de-planeacion"],
     "tipo": "google-sheet",
-    "ruta": "https://docs.google.com/spreadsheets/d/1FYyyYsu0UmB4MSzZ-9-NARnTK7f01Aqk/edit?usp=drive_link",
+    "ruta": "https://docs.google.com/spreadsheets/d/1ZDP-bnddgDzr3wyxxMgBJRnE7YlTcYv4/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
     "destacado": false,
     "fecha": "2025-08-11"
   }
