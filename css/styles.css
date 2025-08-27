@@ -130,7 +130,25 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px;
+  padding: 15px;
+  background: #006b3c;
+}
+
+/* Style the search box */
+#search-box {
+  width: 250px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  background: white;
+  color: #333;
+}
+
+/* Focus state for accessibility and emphasis */
+#search-box:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
 }
 
 .logo-superior {
