@@ -100,8 +100,9 @@ header {
 
 .botones {
   display: flex;
+  justify-content: flex-end;
   gap: 10px;
-  justify-content: center;
+  margin-top: 10px;
 }
 
 .btn {
@@ -143,12 +144,6 @@ header {
   font-size: 16px;
   background: white;
   color: #333;
-}
-
-/* Focus state for accessibility and emphasis */
-#search-box:focus {
-  outline: none;
-  box-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
 }
 
 .logo-superior {
@@ -207,4 +202,20 @@ body {
   background: #007a3d;
 }
 
+.busqueda-filtros {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-left: 20px;
+}
+
+#fase-filter {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  background: white;
+  color: #333;
+  cursor: pointer;
+}
 

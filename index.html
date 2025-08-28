@@ -12,9 +12,19 @@
 <body>
 
   <header id="main-header">
-    <img src="img/logoB.png" alt="LogiTrack Logo" class="logo-superior">
+  <img src="img/logoB.png" alt="LogiTrack Logo" class="logo-superior">
+
+  <div class="busqueda-filtros">
     <input type="text" id="search-box" placeholder="Buscar documentos..." aria-label="Buscar documentos">
-  </header>
+    <select id="fase-filter">
+      <option value="">Todas las fases</option>
+      <option value="iniciacion">Iniciación</option>
+      <option value="ciclo-1">Ciclo 1</option>
+      <option value="seguimiento">Seguimiento</option>
+    </select>
+    <button id="btn-filtrar">Filtrar</button>
+  </div>
+</header>
 
   <nav>
     <a href="rol.html?role=general"><i class="fa-solid fa-house"></i> General</a>

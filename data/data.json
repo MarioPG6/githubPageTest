@@ -9,6 +9,39 @@
   ],
   "documents": [
     {
+      "id": "DI1",
+      "titulo": "ACTA DE INICIACIÓN DEL PROYECTO",
+      "version": 1.0,
+      "roles": ["general"],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1Zn01U5XmAC4Dmfpl5OXD0UvqEqSDBFYu/edit?usp=sharing",
+      "destacado": false,
+      "fecha": "2025-08-11",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
+      "id": "S1",
+      "titulo": "SCRIPT: INICIACIÓN DEL PROYECTO",
+      "version": 1.1,
+      "roles": ["general"],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1CEqTe1KmLmPv2eibm6PjeTLCO4Lyv8FX/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-11",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
+      "id": "BT1",
+      "titulo": "BITACORA DE TIEMPO-SOPORTE(INICIACIÓN)",
+      "version": 1.2,
+      "roles": ["general","líder de soporte"],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1QYjkPnfJBl9gEog5bEz3gLj6EtHo7hNz/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-11",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
       "id": "G3-Script",
       "titulo": "SCRIPT: ESTRATEGIA CICLO 1",
       "version": 1.0,
@@ -43,7 +76,7 @@
     },
     {
       "id": "G5-AdminConfig",
-      "titulo": "PLAN DE ADMINISTRACIÓN DE CONFIGURACIÓN",
+      "titulo": "PLAN DE ADMINISTRACIÓN DE CONFIGURACIÓN Y CONTROL DE CAMBIOS",
       "version": 1.0,
       "roles": ["general"],
       "tipo": "google-doc",
@@ -53,125 +86,48 @@
       "etapa_de_desarrollo": "ciclo-1"
     },
     {
-      "id": "G1-Acta",
-      "titulo": "Acta de Iniciación",
+      "id": "BT5",
+      "titulo": "BITACORA DE TIEMPO-SOPORTE(CICLO 1)",
       "version": 1.0,
-      "roles": ["general"],
+      "roles": ["general","líder de soporte"],
       "tipo": "google-doc",
-      "ruta": "https://docs.google.com/document/d/1Zn01U5XmAC4Dmfpl5OXD0UvqEqSDBFYu/edit?usp=sharing",
+      "ruta": "https://docs.google.com/document/d/1tf8MrQKZGeq6SKwfGmodInEh5ULSHsUQ/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
-      "fecha": "2025-08-11",
-      "etapa_de_desarrollo": "inicio"
-    },
-    {
-      "id": "G2-Script",
-      "titulo": "Script definición de procesos",
-      "version": 1.1,
-      "roles": ["general"],
-      "tipo": "google-doc",
-      "ruta": "https://docs.google.com/document/d/1CEqTe1KmLmPv2eibm6PjeTLCO4Lyv8FX/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-      "destacado": false,
-      "fecha": "2025-08-11",
+      "fecha": "2025-08-27",
       "etapa_de_desarrollo": "ciclo-1"
     },
     {
-      "id": "LS2-bitacora",
-      "titulo": "Bitácora de tiempos - Lider de soporte",
-      "version": 1.1,
-      "roles": ["lider-de-soporte"],
-      "tipo": "google-doc",
-      "ruta": "https://docs.google.com/document/d/1QYjkPnfJBl9gEog5bEz3gLj6EtHo7hNz/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-      "destacado": false,
-      "fecha": "2025-08-11",
-      "etapa_de_desarrollo": "seguimiento"
-    },
-    {
       "id": "LS1-Versiones",
-      "titulo": "Manejador de versiones",
+      "titulo": "CONTROL DE VERSIONES",
       "version": 1.0,
-      "roles": ["lider-de-soporte"],
+      "roles": ["lider-de-soporte", "general"],
       "tipo": "google-sheet",
       "ruta": "https://docs.google.com/spreadsheets/d/10v7Ku5rfZRWf31w35JUepRF8TKDmKp-RiQjegqD6aEM/edit?usp=drive_link",
       "destacado": false,
       "fecha": "2025-08-11",
-      "etapa_de_desarrollo": "seguimiento"
-    },
-    {
-      "id": "LP1-bitacora",
-      "titulo": "Bitácora de tiempos - Lider de Planeación",
-      "version": 1.1,
-      "roles": ["lider-de-planeacion"],
-      "tipo": "google-doc",
-      "ruta": "https://docs.google.com/document/d/1TxC_lBpPEvzBl1YkW4LoiXb2jr_gusHf/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-      "destacado": false,
-      "fecha": "2025-08-11",
-      "etapa_de_desarrollo": "seguimiento"
+      "etapa_de_desarrollo":"seguimiento"
     },
     {
       "id": "LP2-asignaciones",
-      "titulo": "Control de asignaciones",
+      "titulo": "CONTROL DE ASIGNACIONES",
       "version": 2.0,
-      "roles": ["lider-de-planeacion"],
+      "roles": ["lider-de-planeacion", "general"],
       "tipo": "google-sheet",
       "ruta": "https://docs.google.com/spreadsheets/d/1ZDP-bnddgDzr3wyxxMgBJRnE7YlTcYv4/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-08-11",
-      "etapa_de_desarrollo": "seguimiento"
-    },
-    {
-      "id": "LE1-bitacora",
-      "titulo": "Bitácora de tiempos - Lider de equipo",
-      "version": 1.1,
-      "roles": ["lider-de-equipo"],
-      "tipo": "google-doc",
-      "ruta": "https://docs.google.com/document/d/1rl6O2C2Xmyeq4QsMWqqSdoGD5WG0VDfm/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-      "destacado": false,
-      "fecha": "2025-08-11",
-      "etapa_de_desarrollo": "seguimiento"
-    },
-    {
-      "id": "LD1-bitacora",
-      "titulo": "Bitácora de tiempos - Lider de desarrollo",
-      "version": 1.1,
-      "roles": ["lider-de-desarrollo"],
-      "tipo": "google-doc",
-      "ruta": "https://docs.google.com/document/d/1A2ElC3gOGm_0NeijLXxxHtL-4LA5UysD/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-      "destacado": false,
-      "fecha": "2025-08-11",
-      "etapa_de_desarrollo": "seguimiento"
-    },
-    {
-      "id": "LC1-bitacora",
-      "titulo": "Bitácora de tiempos - Lider de calidad",
-      "version": 1.1,
-      "roles": ["lider-de-calidad"],
-      "tipo": "google-doc",
-      "ruta": "https://docs.google.com/document/d/1BRs-HRE52k4c7UbuZ26F5FgE5lUG8ymv/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-      "destacado": false,
-      "fecha": "2025-08-11",
-      "etapa_de_desarrollo": "seguimiento"
-    },
-    {
-      "id": "LC3-defectos",
-      "titulo": "log de defectos - (ciclo 1)",
-      "version": 1.0,
-      "roles": ["lider-de-calidad"],
-      "tipo": "google-doc",
-      "ruta": "https://docs.google.com/document/d/1poBwXpzZ4lovV-17S-SBU0OCv6D_P3g2/edit?usp=sharing&ouid=111098676110645290325&rtpof=true&sd=true",
-      "destacado": false,
-      "fecha": "2025-08-26",
-      "etapa_de_desarrollo": "ciclo-1"
+      "etapa_de_desarrollo":"seguimiento"
     },
     {
       "id": "LC2-defectos",
-      "titulo": "log de defectos - (semana 1)",
+      "titulo": "LOG DE DEFECTOS",
       "version": 1.1,
-      "roles": ["lider-de-calidad"],
+      "roles": ["lider-de-calidad", "general"],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1k6KRDopaxlaj7GuyRqJuBmE0XEqFp6HJ/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-08-11",
-      "etapa_de_desarrollo": "ciclo-1"
+      "etapa_de_desarrollo":"seguimiento"
     }
   ]
 }
