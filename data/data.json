@@ -1,10 +1,10 @@
 {
   "roles": [
-    "líder de calidad",
-    "líder de soporte",
-    "líder de desarrollo",
-    "líder de equipo",
-    "líder de planeación",
+    "lider-de-calidad",
+    "lider-de-soporte",
+    "lider-de-desarrollo",
+    "lider-de-equipo",
+    "lider-de-planeacion",
     "general"
   ],
   "documents": [
@@ -12,7 +12,9 @@
       "id": "DI1",
       "titulo": "ACTA DE INICIACIÓN DEL PROYECTO",
       "version": 1.0,
-      "roles": ["general"],
+      "roles": [
+        "general"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1Zn01U5XmAC4Dmfpl5OXD0UvqEqSDBFYu/edit?usp=sharing",
       "destacado": false,
@@ -23,7 +25,9 @@
       "id": "S1",
       "titulo": "SCRIPT: INICIACIÓN DEL PROYECTO",
       "version": 1.1,
-      "roles": ["general"],
+      "roles": [
+        "general"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1CEqTe1KmLmPv2eibm6PjeTLCO4Lyv8FX/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
@@ -34,9 +38,54 @@
       "id": "BT1",
       "titulo": "BITACORA DE TIEMPO-SOPORTE(INICIACIÓN)",
       "version": 1.2,
-      "roles": ["general","lider-de-soporte"],
+      "roles": [
+        "general",
+        "lider-de-soporte"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1QYjkPnfJBl9gEog5bEz3gLj6EtHo7hNz/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-11",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
+      "id": "BT2",
+      "titulo": "BITACORA DE TIEMPO-PLANEACIÓN(INICIACIÓN)",
+      "version": 1.2,
+      "roles": [
+        "general",
+        "lider-de-planeacion"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1TxC_lBpPEvzBl1YkW4LoiXb2jr_gusHf/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-11",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
+      "id": "BT3",
+      "titulo": "BITACORA DE TIEMPO-LÍDER(INICIACIÓN)",
+      "version": 1.2,
+      "roles": [
+        "general",
+        "lider-de-equipo"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1rl6O2C2Xmyeq4QsMWqqSdoGD5WG0VDfm/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-11",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
+      "id": "BT4",
+      "titulo": "BITACORA DE TIEMPO-CALIDAD(INICIACIÓN)",
+      "version": 1.2,
+      "roles": [
+        "general",
+        "lider-de-calidad"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1BRs-HRE52k4c7UbuZ26F5FgE5lUG8ymv/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-08-11",
       "etapa_de_desarrollo": "iniciación"
@@ -45,7 +94,9 @@
       "id": "G3-Script",
       "titulo": "SCRIPT: ESTRATEGIA CICLO 1",
       "version": 1.0,
-      "roles": ["general"],
+      "roles": [
+        "general"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1Z7ifKN2qX4PGIGuvYVSOEHxXvXLigJfg/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
@@ -56,7 +107,9 @@
       "id": "G4-PlanRiesgos",
       "titulo": "PLAN DE MANEJO DE RIESGOS",
       "version": 1.0,
-      "roles": ["general"],
+      "roles": [
+        "general"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1Za8PDJhoL7OhS9IWawfcpDnJzJUKdtBa/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
@@ -67,7 +120,9 @@
       "id": "G4-DocumentoEstrategia",
       "titulo": "DOCUMENTO DE ESTRATEGIA",
       "version": 1.0,
-      "roles": ["general"],
+      "roles": [
+        "general"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1JRRfPBuJXMxvMoqzJDMTMjjBk1OvgtHK/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
@@ -78,7 +133,9 @@
       "id": "G5-AdminConfig",
       "titulo": "PLAN DE ADMINISTRACIÓN DE CONFIGURACIÓN Y CONTROL DE CAMBIOS",
       "version": 1.0,
-      "roles": ["general"],
+      "roles": [
+        "general"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1O-SYcZ-RZ2DHop2D0Z9QOZD4bUwk0Hiy/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
@@ -89,7 +146,9 @@
       "id": "AC1",
       "titulo": "ACTA DE REUNIÓN 24/08/25",
       "version": 1.0,
-      "roles": ["general"],
+      "roles": [
+        "general"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1HKURGwRPCgQ4K5kz6OBddyfDFVMugkKp/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
@@ -100,7 +159,9 @@
       "id": "AC2",
       "titulo": "ACTA DE REUNIÓN 26/08/25",
       "version": 1.0,
-      "roles": ["general"],
+      "roles": [
+        "general"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1jUv44iaefX7nXJRMGjzwDJWoWn3h0TMj/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
@@ -111,9 +172,54 @@
       "id": "BT5",
       "titulo": "BITACORA DE TIEMPO-SOPORTE(CICLO 1)",
       "version": 1.0,
-      "roles": ["general","lider-de-soporte"],
+      "roles": [
+        "general",
+        "lider-de-soporte"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1tf8MrQKZGeq6SKwfGmodInEh5ULSHsUQ/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-27",
+      "etapa_de_desarrollo": "ciclo-1"
+    },
+    {
+      "id": "BT6",
+      "titulo": "BITACORA DE TIEMPO-PLANEACIÓN(CICLO 1)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-planeacion"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1TxC_lBpPEvzBl1YkW4LoiXb2jr_gusHf/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-27",
+      "etapa_de_desarrollo": "ciclo-1"
+    },
+    {
+      "id": "BT7",
+      "titulo": "BITACORA DE TIEMPO-LÍDER(CICLO 1)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-equipo"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1rl6O2C2Xmyeq4QsMWqqSdoGD5WG0VDfm/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-27",
+      "etapa_de_desarrollo": "ciclo-1"
+    },
+    {
+      "id": "BT8",
+      "titulo": "BITACORA DE TIEMPO-CALIDAD(CICLO 1)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-calidad"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1BRs-HRE52k4c7UbuZ26F5FgE5lUG8ymv/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-08-27",
       "etapa_de_desarrollo": "ciclo-1"
@@ -122,34 +228,43 @@
       "id": "LS1-Versiones",
       "titulo": "CONTROL DE VERSIONES",
       "version": 1.0,
-      "roles": ["lider-de-soporte", "general"],
+      "roles": [
+        "lider-de-soporte",
+        "general"
+      ],
       "tipo": "google-sheet",
       "ruta": "https://docs.google.com/spreadsheets/d/10v7Ku5rfZRWf31w35JUepRF8TKDmKp-RiQjegqD6aEM/edit?usp=drive_link",
       "destacado": false,
       "fecha": "2025-08-11",
-      "etapa_de_desarrollo":"seguimiento"
+      "etapa_de_desarrollo": "seguimiento"
     },
     {
       "id": "LP2-asignaciones",
       "titulo": "CONTROL DE ASIGNACIONES",
       "version": 2.0,
-      "roles": ["lider-de-planeacion", "general"],
+      "roles": [
+        "lider-de-planeacion",
+        "general"
+      ],
       "tipo": "google-sheet",
       "ruta": "https://docs.google.com/spreadsheets/d/1ZDP-bnddgDzr3wyxxMgBJRnE7YlTcYv4/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-08-11",
-      "etapa_de_desarrollo":"seguimiento"
+      "etapa_de_desarrollo": "seguimiento"
     },
     {
       "id": "LC2-defectos",
       "titulo": "LOG DE DEFECTOS",
       "version": 1.1,
-      "roles": ["lider-de-calidad", "general"],
+      "roles": [
+        "lider-de-calidad",
+        "general"
+      ],
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1k6KRDopaxlaj7GuyRqJuBmE0XEqFp6HJ/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-08-11",
-      "etapa_de_desarrollo":"seguimiento"
+      "etapa_de_desarrollo": "seguimiento"
     }
   ]
 }
