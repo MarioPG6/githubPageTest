@@ -86,6 +86,28 @@
       "etapa_de_desarrollo": "ciclo-1"
     },
     {
+      "id": "AC1",
+      "titulo": "ACTA DE REUNIÓN 24/08/25",
+      "version": 1.0,
+      "roles": ["general"],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1HKURGwRPCgQ4K5kz6OBddyfDFVMugkKp/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-27",
+      "etapa_de_desarrollo": "ciclo-1"
+    },
+    {
+      "id": "AC2",
+      "titulo": "ACTA DE REUNIÓN 26/08/25",
+      "version": 1.0,
+      "roles": ["general"],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1jUv44iaefX7nXJRMGjzwDJWoWn3h0TMj/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-27",
+      "etapa_de_desarrollo": "ciclo-1"
+    },
+    {
       "id": "BT5",
       "titulo": "BITACORA DE TIEMPO-SOPORTE(CICLO 1)",
       "version": 1.0,
