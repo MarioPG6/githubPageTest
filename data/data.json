@@ -225,6 +225,158 @@
       "etapa_de_desarrollo": "ciclo-1"
     },
     {
+      "id": "S3",
+      "titulo": "SCRIPT: REQUERIMIENTOS CICLO 1",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1krimyXvmPRSuiPqRqHB4I_hMc9gRE6R1/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "SR1",
+      "titulo": "SEGUIMIENTOS DE RIESGOS",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-calidad"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1YiM2l7n3eImybHIeWoeWaUtPSzy3s-pz/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "EC1",
+      "titulo": "ESCENARIOS DE CALIDAD (SOPORTE)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-soporte"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1wbHZrx1A_SwWPcSN7mxtKKgfzqp6A8rg/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "EC2",
+      "titulo": "ESCENARIOS DE CALIDAD (CALIDAD)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-calidad"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1kwGNLVnyUUakhYJQX5klxx3R2F_lUcjl/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "DU1",
+      "titulo": "DETALLES CASOS DE USO (SOPORTE)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-soporte"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1VG3ym0G1rSkSujZS_OMCYcHX4MPMEYZm/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "DU1",
+      "titulo": "DETALLES CASOS DE USO (CALIDAD)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-calidad"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1zQbtuzLmeTtkh0da5NHX_cdmFROwazsT/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "MD1",
+      "titulo": "MODELO DE DOMINIO",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://drive.google.com/file/d/13M_WjQA4F7in2m5CX9clz7dt3uJW6Zg_/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+       {
+      "id": "BT7",
+      "titulo": "BITACORA DE TIEMPO-SOPORTE(REQUERIMIENTOS)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-soporte"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1LLLmGSvzEcW36WGKvnumchN_RVdH_rtw/edit?usp=sharing&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "BT6",
+      "titulo": "BITACORA DE TIEMPO-PLANEACIÓN(REQUERIMIENTOS)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-planeacion"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1TxC_lBpPEvzBl1YkW4LoiXb2jr_gusHf/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-08-27",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "BT7",
+      "titulo": "BITACORA DE TIEMPO-LÍDER(REQUERIMIENTOS)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-equipo"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/18xv42EYsAtLf7XxRDGEUwQu6gXeCjJGd/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "BT8",
+      "titulo": "BITACORA DE TIEMPO-CALIDAD(REQUERIMIENTOS)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-calidad"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1SL3BsqNqOE2c6zA0x9OXH6drvz4TMoX6/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
       "id": "LS1-Versiones",
       "titulo": "CONTROL DE VERSIONES",
       "version": 1.0,

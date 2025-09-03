@@ -24,7 +24,7 @@ fetch("./data/data.json")
     renderDocuments(allDocuments);
 
     // --- Insertar filtros ---
-    const fasesOrden = ["iniciación", "ciclo-1", "seguimiento"];
+    const fasesOrden = ["iniciación", "ciclo-1", "seguimiento","requerimientos"];
     const filtrosContainer = document.createElement("div");
     filtrosContainer.className = "busqueda-filtros";
 
@@ -114,7 +114,7 @@ function renderDocuments(docs) {
     return;
   }
 
-  const fasesOrden = ["iniciación", "ciclo-1", "seguimiento"];
+  const fasesOrden = ["iniciación", "ciclo-1", "seguimiento","requerimientos"];
   const grouped = {};
 
   docs.forEach((doc) => {
