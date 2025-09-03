@@ -308,6 +308,20 @@
       "etapa_de_desarrollo": "requerimientos"
     },
     {
+      "id": "DU1",
+      "titulo": "DETALLES CASOS DE USO (LIDER EQUIPO)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-equipo"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1OikC9Xb0VlJwQh5LlxqUYmKSy1ZJZM36/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
       "id": "MD1",
       "titulo": "MODELO DE DOMINIO",
       "version": 1.0,
