@@ -294,6 +294,20 @@
       "etapa_de_desarrollo": "requerimientos"
     },
     {
+      "id": "EC4",
+      "titulo": "ESCENARIOS DE CALIDAD (PLANEACIÓN)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-planeacion"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1X2Hh9VkFbu-Cp0ImkUFeCrNYjPI3xehC/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
       "id": "DU1",
       "titulo": "DETALLES CASOS DE USO (SOPORTE)",
       "version": 1.0,
@@ -336,6 +350,20 @@
       "etapa_de_desarrollo": "requerimientos"
     },
     {
+      "id": "DU3",
+      "titulo": "DETALLES CASOS DE USO (PLANEACIÓN)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-planeacion"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1uVd5t7XQfjXHIGOawp5NA5YNkYMrHFd6/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
       "id": "MD1",
       "titulo": "MODELO DE DOMINIO",
       "version": 1.0,
@@ -348,7 +376,7 @@
       "fecha": "2025-09-03",
       "etapa_de_desarrollo": "requerimientos"
     },
-       {
+    {
       "id": "BT7",
       "titulo": "BITACORA DE TIEMPO-SOPORTE(REQUERIMIENTOS)",
       "version": 1.0,
