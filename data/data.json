@@ -31,7 +31,7 @@
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1CEqTe1KmLmPv2eibm6PjeTLCO4Lyv8FX/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
-      "fecha": "2025-08-11",
+      "fecha": "2025-08-13",
       "etapa_de_desarrollo": "iniciación"
     },
     {
@@ -45,7 +45,7 @@
       "tipo": "google-doc",
       "ruta": "https://docs.google.com/document/d/1QYjkPnfJBl9gEog5bEz3gLj6EtHo7hNz/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
-      "fecha": "2025-08-11",
+      "fecha": "2025-08-20",
       "etapa_de_desarrollo": "iniciación"
     },
     {
@@ -93,7 +93,7 @@
     {
       "id": "G3-Script",
       "titulo": "SCRIPT: ESTRATEGIA CICLO 1",
-      "version": 1.0,
+      "version": 1.1,
       "roles": [
         "general"
       ],
@@ -185,7 +185,7 @@
     {
       "id": "BT6",
       "titulo": "BITACORA DE TIEMPO-PLANEACIÓN(CICLO 1)",
-      "version": 1.0,
+      "version": 1.2,
       "roles": [
         "general",
         "lider-de-planeacion"
@@ -199,7 +199,7 @@
     {
       "id": "BT7",
       "titulo": "BITACORA DE TIEMPO-LÍDER(CICLO 1)",
-      "version": 1.0,
+      "version": 1.2,
       "roles": [
         "general",
         "lider-de-equipo"
@@ -213,7 +213,7 @@
     {
       "id": "BT8",
       "titulo": "BITACORA DE TIEMPO-CALIDAD(CICLO 1)",
-      "version": 1.0,
+      "version": 1.2,
       "roles": [
         "general",
         "lider-de-calidad"
@@ -310,7 +310,7 @@
     {
       "id": "DU1",
       "titulo": "DETALLES CASOS DE USO (CALIDAD)",
-      "version": 1.0,
+      "version": 1.2,
       "roles": [
         "general",
         "lider-de-calidad"
@@ -365,7 +365,7 @@
     {
       "id": "BT6",
       "titulo": "BITACORA DE TIEMPO-PLANEACIÓN(REQUERIMIENTOS)",
-      "version": 1.0,
+      "version": 1.2,
       "roles": [
         "general",
         "lider-de-planeacion"
@@ -407,7 +407,7 @@
     {
       "id": "LS1-Versiones",
       "titulo": "CONTROL DE VERSIONES",
-      "version": 1.0,
+      "version": 3.0,
       "roles": [
         "lider-de-soporte",
         "general"
@@ -415,13 +415,13 @@
       "tipo": "google-sheet",
       "ruta": "https://docs.google.com/spreadsheets/d/10v7Ku5rfZRWf31w35JUepRF8TKDmKp-RiQjegqD6aEM/edit?usp=drive_link",
       "destacado": false,
-      "fecha": "2025-08-11",
+      "fecha": "2025-09-03",
       "etapa_de_desarrollo": "seguimiento"
     },
     {
       "id": "LP2-asignaciones",
       "titulo": "CONTROL DE ASIGNACIONES",
-      "version": 2.0,
+      "version": 3.0,
       "roles": [
         "lider-de-planeacion",
         "general"
@@ -429,13 +429,13 @@
       "tipo": "google-sheet",
       "ruta": "https://docs.google.com/spreadsheets/d/1ZDP-bnddgDzr3wyxxMgBJRnE7YlTcYv4/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
-      "fecha": "2025-08-11",
+      "fecha": "2025-09-03",
       "etapa_de_desarrollo": "seguimiento"
     },
     {
       "id": "LC2-defectos",
       "titulo": "LOG DE DEFECTOS",
-      "version": 1.1,
+      "version": 2.1,
       "roles": [
         "lider-de-calidad",
         "general"
