@@ -91,6 +91,62 @@
       "etapa_de_desarrollo": "iniciación"
     },
     {
+      "id": "I7",
+      "titulo": "Revisión Plantilla MaestroDocumentos",
+      "version": 1.0,
+      "roles": [
+        "lider-de-planeacion",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1CJT_i7wSN8f0j4ok5eBFyHKev-Bz_bek/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-16",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
+      "id": "I8",
+      "titulo": "Revisión Plantilla LogdeDefectos",
+      "version": 1.0,
+      "roles": [
+        "lider-de-planeacion",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1cvS1jKlzE0O6S2K0Rs2WLjOK3kxy3T7M/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-16",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
+      "id": "I9",
+      "titulo": "RevisiónDocumentos Lider",
+      "version": 1.0,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1xwkDlJfy2ctTuBou2BHpRshBVbQ3bbZQ/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-16",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
+      "id": "I12",
+      "titulo": "Revisión_Soporte",
+      "version": 1.0,
+      "roles": [
+        "lider-de-soporte",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1wJ6ovfwNhgZowX__OhX46X1x5sX51-kg/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-16",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
       "id": "G3-Script",
       "titulo": "SCRIPT: ESTRATEGIA CICLO 1",
       "version": 1.1,
@@ -235,7 +291,49 @@
       "ruta": "https://docs.google.com/document/d/1krimyXvmPRSuiPqRqHB4I_hMc9gRE6R1/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-09-03",
-      "etapa_de_desarrollo": "requerimientos"
+      "etapa_de_desarrollo": "ciclo-1"
+    },
+    {
+      "id": "C12",
+      "titulo": "Revisión Documentos LiderDeEquipo",
+      "version": 1.0,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1hHXF5VVJzox6mD7HaR4VAesnn96XT-Vr/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-17",
+      "etapa_de_desarrollo": "ciclo-1"
+    },
+    {
+      "id": "C13",
+      "titulo": "Revisión Documentos Soporte",
+      "version": 1.0,
+      "roles": [
+        "lider-de-soporte",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1rzZ3JMSgro-T1s5R7WxjXUrvLK44hsUH/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-17",
+      "etapa_de_desarrollo": "ciclo-1"
+    },
+    {
+      "id": "C11",
+      "titulo": "RESUMEN SEMANAL NO.2 LOGITRACK",
+      "version": 1.0,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "pdf",
+      "ruta": "https://drive.google.com/file/d/12Z3LCrNAH5p96lp0rtUmE1v2bMffR__T/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-08-27",
+      "etapa_de_desarrollo": "ciclo-1"
     },
     {
       "id": "SR1",
@@ -432,125 +530,173 @@
       "fecha": "2025-09-03",
       "etapa_de_desarrollo": "requerimientos"
     },
-  {
-    "id": "PL1",
-    "titulo": "SCRIPT: PLANEACIÓN",
-    "version": 1.0,
-    "roles": [
-      "general"
-    ],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1J2ZaPSUaduAZumAWR2APvbhE_m74-miv/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-09-08",
-    "etapa_de_desarrollo": "planeacion"
-  },
-  {
-    "id": "PL2",
-    "titulo": "ASEGURAMIENTO DE CALIDAD",
-    "version": 1.1,
-    "roles": [
-      "lider-de-equipo","general"
-    ],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/15ZsXwCTmbzoHGZZ_uMnre_Hz6VpSX2rP/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-09-09",
-    "etapa_de_desarrollo": "planeacion"
-  },
-  {
-    "id": "PL3",
-    "titulo": "ADMIN REQUERIMIENTOS - LOGITRACK (DOC)",
-    "version": 1.0,
-    "roles": [
-      "lider-de-equipo","general"
-    ],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1tTA9zMrZBKxFN3r5fpwtluvDyHYKlsDD/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-09-09",
-    "etapa_de_desarrollo": "planeacion"
-  },
-  {
-    "id": "PL4",
-    "titulo": "ADMIN REQUERIMIENTOS - LOGITRACK (XLSX)",
-    "version": 1.0,
-    "roles": [
-      "lider-de-equipo","general"
-    ],
-    "tipo": "google-sheet",
-    "ruta": "https://docs.google.com/spreadsheets/d/1Jsn9nltgeJhsJ1Sfp88A0ipcRmJDsLTu/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-09-09",
-    "etapa_de_desarrollo": "planeacion"
-  },
-  {
-    "id": "PL5",
-    "titulo": "EVIDENCIAS SEMANA 4",
-    "version": 1.0,
-    "roles": [
-      "lider-de-calidad","general"
-    ],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1Ezz2O7RGCXYkniuRKjfVtjqiHAZnf1CT/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-09-09",
-    "etapa_de_desarrollo": "planeacion"
-  },
-  {
-    "id": "PL6",
-    "titulo": "BITÁCORA DE TIEMPO - SOPORTE (S4)",
-    "version": 1.0,
-    "roles": [
-      "lider-de-soporte","general"
-    ],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1bDRxJJtuvCroJKAk6zMuSu68i1-p6U7u/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-09-09",
-    "etapa_de_desarrollo": "planeacion"
-  },
-  {
-    "id": "PL7",
-    "titulo": "BITÁCORA DE TIEMPO - LÍDER (S4)",
-    "version": 1.0,
-    "roles": [
-      "lider-de-equipo","general"
-    ],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1HaTn3mLTxfZje3xETSp-x1L9L_C5tVWK/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-09-09",
-    "etapa_de_desarrollo": "planeacion"
-  },
-  {
-    "id": "PL8",
-    "titulo": "BITÁCORA DE TIEMPO - PLANEACIÓN",
-    "version": 4.1,
-    "roles": [
-      "lider-de-planeacion","general"
-    ],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1TxC_lBpPEvzBl1YkW4LoiXb2jr_gusHf/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-09-09",
-    "etapa_de_desarrollo": "planeacion"
-  },
-  {
-    "id": "PL9",
-    "titulo": "BITÁCORA DE TIEMPO - CALIDAD (S4)",
-    "version": 1.0,
-    "roles": [
-      "lider-de-calidad","general"
-    ],
-    "tipo": "google-doc",
-    "ruta": "https://docs.google.com/document/d/1wYVJ8eJwg3Of9A1zBOmi30hnQAFnnju9/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
-    "destacado": false,
-    "fecha": "2025-09-09",
-    "etapa_de_desarrollo": "planeacion"
-  }
-,
-
+    {
+      "id": "R15",
+      "titulo": "Seguimiento_Riesgos",
+      "version": 1.0,
+      "roles": [
+        "lider-de-planeacion",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1YiM2l7n3eImybHIeWoeWaUtPSzy3s-pz/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "R16",
+      "titulo": "RESUMEN SEMANAL S3",
+      "version": 1.0,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "pdf",
+      "ruta": "https://drive.google.com/file/d/17WuMA9K9Gz8wGzv6W8OkIY0Mc7W0Dhbi/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-09-16",
+      "etapa_de_desarrollo": "requerimientos"
+    },
+    {
+      "id": "PL1",
+      "titulo": "SCRIPT: PLANEACIÓN",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1J2ZaPSUaduAZumAWR2APvbhE_m74-miv/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-08",
+      "etapa_de_desarrollo": "planeacion"
+    },
+    {
+      "id": "PL2",
+      "titulo": "ASEGURAMIENTO DE CALIDAD",
+      "version": 1.1,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/15ZsXwCTmbzoHGZZ_uMnre_Hz6VpSX2rP/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-09",
+      "etapa_de_desarrollo": "planeacion"
+    },
+    {
+      "id": "PL3",
+      "titulo": "ADMIN REQUERIMIENTOS - LOGITRACK (DOC)",
+      "version": 1.0,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1tTA9zMrZBKxFN3r5fpwtluvDyHYKlsDD/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-09",
+      "etapa_de_desarrollo": "planeacion"
+    },
+    {
+      "id": "PL4",
+      "titulo": "ADMIN REQUERIMIENTOS - LOGITRACK (XLSX)",
+      "version": 1.0,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "google-sheet",
+      "ruta": "https://docs.google.com/spreadsheets/d/1Jsn9nltgeJhsJ1Sfp88A0ipcRmJDsLTu/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-09",
+      "etapa_de_desarrollo": "planeacion"
+    },
+    {
+      "id": "PL5",
+      "titulo": "EVIDENCIAS SEMANA 4",
+      "version": 1.0,
+      "roles": [
+        "lider-de-calidad",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1Ezz2O7RGCXYkniuRKjfVtjqiHAZnf1CT/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-09",
+      "etapa_de_desarrollo": "planeacion"
+    },
+    {
+      "id": "PL6",
+      "titulo": "BITÁCORA DE TIEMPO - SOPORTE (S4)",
+      "version": 1.0,
+      "roles": [
+        "lider-de-soporte",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1bDRxJJtuvCroJKAk6zMuSu68i1-p6U7u/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-09",
+      "etapa_de_desarrollo": "planeacion"
+    },
+    {
+      "id": "PL7",
+      "titulo": "BITÁCORA DE TIEMPO - LÍDER (S4)",
+      "version": 1.0,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1HaTn3mLTxfZje3xETSp-x1L9L_C5tVWK/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-09",
+      "etapa_de_desarrollo": "planeacion"
+    },
+    {
+      "id": "PL8",
+      "titulo": "BITÁCORA DE TIEMPO - PLANEACIÓN",
+      "version": 4.1,
+      "roles": [
+        "lider-de-planeacion",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1TxC_lBpPEvzBl1YkW4LoiXb2jr_gusHf/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-09",
+      "etapa_de_desarrollo": "planeacion"
+    },
+    {
+      "id": "PL9",
+      "titulo": "BITÁCORA DE TIEMPO - CALIDAD (S4)",
+      "version": 1.0,
+      "roles": [
+        "lider-de-calidad",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1wYVJ8eJwg3Of9A1zBOmi30hnQAFnnju9/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-09",
+      "etapa_de_desarrollo": "planeacion"
+    },
+    {
+      "id": "PL10",
+      "titulo": "RESUMEN SEMANAL NO.4 LOGITRACK",
+      "version": 1.0,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "pdf",
+      "ruta": "https://drive.google.com/file/d/10EkL0IAJcU8spxBLLhquLZLCgcYgs4y5/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-08-16",
+      "etapa_de_desarrollo": "planeacion"
+    },
     {
       "id": "LS1-Versiones",
       "titulo": "CONTROL DE VERSIONES",
