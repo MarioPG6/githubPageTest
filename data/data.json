@@ -698,6 +698,76 @@
       "etapa_de_desarrollo": "planeacion"
     },
     {
+      "id": "D1",
+      "titulo": "Version inicial Script Diseño",
+      "version": 1.0,
+      "roles": [
+        "lider-de-soporte",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1iDMDnI37A3s7Fn38yLIf4dnh16CtsUEk/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-16",
+      "etapa_de_desarrollo": "diseño"
+    },
+    {
+      "id": "D2",
+      "titulo": "Version inicial de especificacion de diseños de software",
+      "version": 1.0,
+      "roles": [
+        "lider-de-soporte",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1mxHSSMCgfC3GhVvhIhlNZC6cBFd3Us-a/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-16",
+      "etapa_de_desarrollo": "diseño"
+    },
+    {
+      "id": "D3",
+      "titulo": "Bitacora de diseño (LIDER DE EQUIPO)",
+      "version": 1.0,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/14_FHC_HOJBW49ONKVn0VWqAfdLCDmVTx/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-16",
+      "etapa_de_desarrollo": "diseño"
+    },
+    {
+      "id": "D4",
+      "titulo": "Bitacora de diseño (LIDER DE PLANEACION)",
+      "version": 1.0,
+      "roles": [
+        "lider-de-planeacion",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1TxC_lBpPEvzBl1YkW4LoiXb2jr_gusHf/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-16",
+      "etapa_de_desarrollo": "diseño"
+    },
+    {
+      "id": "D5",
+      "titulo": "Bitacora de diseño (LIDER DE SOPORTE)",
+      "version": 1.0,
+      "roles": [
+        "lider-de-soporte",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1VCD5v6qgqo1Rs11sz369ADJP_POCWqD_/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-17",
+      "etapa_de_desarrollo": "diseño"
+    },
+    {
       "id": "LS1-Versiones",
       "titulo": "CONTROL DE VERSIONES",
       "version": 3.0,
