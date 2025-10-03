@@ -809,5 +809,137 @@
       "fecha": "2025-08-11",
       "etapa_de_desarrollo": "seguimiento"
     }
+    ,
+    {
+      "id": "LDC",
+      "titulo": "LOG DE DEFECTOS DE CODIGO",
+      "version": 1.0,
+      "roles": [
+        "lider-de-calidad",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1Nl2DsUascoWuwXVI6mJezJfJzdMYok6-/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-30",
+      "etapa_de_desarrollo": "seguimiento"
+    },
+    {
+      "id": "IM1",
+      "titulo": "SCRIPT: IMPLEMENTACIÓN",
+      "version": 1.0,
+      "roles": [
+        "lider-de-soporte",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1jZNWNch9yDm52PZhoIgb1iewhJ4nrXdo/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-26",
+      "etapa_de_desarrollo": "implementacion"
+    }
+    ,
+    {
+      "id": "IM2",
+      "titulo": "PLAN DE PRUEBAS UNITARIAS (IMPLEMENTACIÓN#1)",
+      "version": 1.0,
+      "roles": [
+        "lider-de-soporte",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/199di6G-6FAOJ0Trag2Uc89-Ht8y9JvwsG7VL5boOUtM/edit?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-09-30",
+      "etapa_de_desarrollo": "implementacion"
+    }
+    ,{
+      "id": "IM3",
+      "titulo": "PLAN DE IMPLEMENTACIÓN",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1ZfzQk9pU9sjH25DVV3UyyKN2ZcfWSv_4/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-30",
+      "etapa_de_desarrollo": "implementacion"
+    }
+    ,
+    {
+      "id": "IM4",
+      "titulo": "Bitacora de Tiempo Soporte(S6-S7)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-soporte"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/19msd8Wgau7OpEsHM8L1maHhO_fabKcWp/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-30",
+      "etapa_de_desarrollo": "implementacion"
+    },
+    {
+      "id": "IM5",
+      "titulo": "Bitacora de Tiempo calidad(S6-S7)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-calidad"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1CiXtbff6vQc0lGsEPoiWBUjvN9zh5TLv/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-30",
+      "etapa_de_desarrollo": "implementacion"
+    },
+    {
+      "id": "IM6",
+      "titulo": "Bitacora de Tiempo lider(S6-S7)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-equipo"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1IZCHwNu_msb46wxR4ofdQ4R2nUWZjwK5/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-30",
+      "etapa_de_desarrollo": "implementacion"
+    },
+    {
+      "id": "IM7",
+      "titulo": "Bitacora de Tiempo planeación(S6-S7)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-planeacion"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1TxC_lBpPEvzBl1YkW4LoiXb2jr_gusHf/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-30",
+      "etapa_de_desarrollo": "implementacion"
+    }
+    ,
+    {
+      "id": "IM8",
+      "titulo": "RESUMEN SEMANAL S6-S7 LOGITRACK",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-equipo"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://drive.google.com/file/d/1T7nMKGWCC0WnIv12z-OF1mOFMxFUJyVo/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-09-30",
+      "etapa_de_desarrollo": "implementacion"
+    }
+
+    
+    
   ]
 }
