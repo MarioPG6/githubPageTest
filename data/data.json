@@ -133,7 +133,21 @@
       "etapa_de_desarrollo": "iniciación"
     },
     {
-      "id": "I12",
+      "id": "I10",
+      "titulo": "RevisiónDocumentos Lider 2",
+      "version": 1.0,
+      "roles": [
+        "lider-de-equipo",
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/12RAfph14MZc4fCjSQ_qWZj9Ze02eWSFT/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-16",
+      "etapa_de_desarrollo": "iniciación"
+    },
+    {
+      "id": "I11",
       "titulo": "Revisión_Soporte",
       "version": 1.0,
       "roles": [
@@ -147,7 +161,7 @@
       "etapa_de_desarrollo": "iniciación"
     },
     {
-      "id": "G3-Script",
+      "id": "C1",
       "titulo": "SCRIPT: ESTRATEGIA CICLO 1",
       "version": 1.1,
       "roles": [
@@ -160,7 +174,7 @@
       "etapa_de_desarrollo": "ciclo-1"
     },
     {
-      "id": "G4-PlanRiesgos",
+      "id": "C2",
       "titulo": "PLAN DE MANEJO DE RIESGOS",
       "version": 1.0,
       "roles": [
@@ -937,9 +951,155 @@
       "destacado": false,
       "fecha": "2025-09-30",
       "etapa_de_desarrollo": "implementacion"
+    },
+    {
+      "id": "PR1",
+      "titulo": "Script Pruebas",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1EvBFv-L_XF8G7qyTAbsG0Gy1XV_xERcm/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
+    },
+    {
+      "id": "PR2",
+      "titulo": "Plan de Pruebas",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1rXudhLDmG4y4X8nQ9ChaGC12jBj3lgoy/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
+    },
+    {
+      "id": "PR3",
+      "titulo": "Informe de pruebas",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1e_f78EBd-VXHF8R3gMAi1SKI4ggw0wpe/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
+    },
+    {
+      "id": "PR4",
+      "titulo": "Revisión casos de prueba Auorizacion Entrega a Terceros",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1zUGqJicb3r81KNJoeaUCCwXko5Kf3GMX/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
+    },
+    {
+      "id": "PR5",
+      "titulo": "Revisión casos de prueba facturación",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1yYgvRLwyJqJCCbvrhiyB73fWOECrc8mP/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
+    },
+    {
+      "id": "PR6",
+      "titulo": "Revisión casos de prueba crear guia envio",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1v6hEV4nDCVYsfS4rs9VptIpDfJVpjoST/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
+    },
+    {
+      "id": "PR7",
+      "titulo": "Bitacora de Tiempo Soporte(S8)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-soporte"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1oUzwL1gu6decnKaG7_FQ_nPwMUYOljn0/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
+    },
+    {
+      "id": "PR8",
+      "titulo": "Bitacora de Tiempo Soporte(S8)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-soporte"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1oUzwL1gu6decnKaG7_FQ_nPwMUYOljn0/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
+    },
+    {
+      "id": "PR9",
+      "titulo": "Bitacora de Tiempo lider(S8)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-equipo"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1oUzwL1gu6decnKaG7_FQ_nPwMUYOljn0/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
+    },
+    {
+      "id": "PR10",
+      "titulo": "Bitacora de Tiempo planeación(S8)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-equipo"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1TxC_lBpPEvzBl1YkW4LoiXb2jr_gusHf/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
+    },
+    {
+      "id": "PR11",
+      "titulo": "Bitacora de Tiempo calidad(S8)",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-equipo"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1_2pG46Yv41gJy1kWk2mqeFgaBL7dcm4P/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "pruebas"
     }
-
-    
     
   ]
 }
