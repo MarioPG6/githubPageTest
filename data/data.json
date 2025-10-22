@@ -1100,6 +1100,45 @@
       "fecha": "2025-10-09",
       "etapa_de_desarrollo": "pruebas"
     }
-    
+    ,
+    {
+      "id": "PM1",
+      "titulo": "Reporte Post Mortem (Ciclo 1)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1Ws_yr9WEGpCfF196QESiclo0e8kt4Bku/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "post-mortem"
+    },
+    {
+      "id": "PM2",
+      "titulo": "Presentación Post Mortem (Ciclo 1)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1LxiK2HSZLa7EG_pyfXslDq7uiUKjPyNj/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "post-mortem"
+    },
+    {
+      "id": "PM3",
+      "titulo": "SCRIPT: Post Mortem (Ciclo 1)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1mxItfeNcYF1DQxMaAO3ZItU9PewWjWOG/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo": "post-mortem"
+    }
   ]
 }
