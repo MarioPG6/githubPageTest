@@ -24,7 +24,10 @@ fetch("./data/data.json")
     renderDocuments(allDocuments);
 
     // --- Insertar filtros ---
-    const fasesOrden = ["iniciación", "ciclo-1", "seguimiento","requerimientos","planeacion","diseño","implementacion,pruebas,post-mortem"];
+    const fasesOrden = [
+      "iniciación", "ciclo-1", "seguimiento", "requerimientos",
+      "planeacion", "diseño", "implementacion,pruebas,post-mortem"
+    ];
     const filtrosContainer = document.createElement("div");
     filtrosContainer.className = "busqueda-filtros";
 
@@ -42,8 +45,19 @@ fetch("./data/data.json")
       faseSelect.innerHTML += `<option value="${fase}">${fase}</option>`;
     });
 
+    // 🆕 Select de ciclos
+    const cicloSelect = document.createElement("select");
+    cicloSelect.id = "ciclo-filter";
+    cicloSelect.innerHTML = `
+      <option value="">Todos los ciclos</option>
+      <option value="1">Ciclo 1</option>
+      <option value="2">Ciclo 2</option>
+    `;
+
+    // Agregar filtros al contenedor
     filtrosContainer.appendChild(searchBox);
     filtrosContainer.appendChild(faseSelect);
+    filtrosContainer.appendChild(cicloSelect);
 
     // Insertar en header
     const header = document.getElementById("main-header");
@@ -53,6 +67,7 @@ fetch("./data/data.json")
     function aplicarFiltros() {
       const query = searchBox.value.toLowerCase().trim();
       const faseSeleccionada = faseSelect.value;
+      const cicloSeleccionado = cicloSelect.value;
 
       let filtered = allDocuments.filter((doc) => {
         const titulo = doc.titulo.toLowerCase();
@@ -74,28 +89,31 @@ fetch("./data/data.json")
         const coincideFase =
           faseSeleccionada === "" || etapas.includes(faseSeleccionada);
 
-        return coincideBusqueda && coincideFase;
+        // 🆕 Filtrado por ciclo
+        const coincideCiclo =
+          cicloSeleccionado === "" || doc.ciclo?.toString() === cicloSeleccionado;
+
+        return coincideBusqueda && coincideFase && coincideCiclo;
       });
 
       renderDocuments(filtered);
     }
 
+    // Escuchadores de eventos
     searchBox.addEventListener("input", aplicarFiltros);
     faseSelect.addEventListener("change", aplicarFiltros);
+    cicloSelect.addEventListener("change", aplicarFiltros);
 
     // Si había filtros en la URL, restaurarlos
     const faseParam = params.get("fase");
     const queryParam = params.get("query");
+    const cicloParam = params.get("ciclo");
 
-    if (faseParam) {
-      faseSelect.value = faseParam;
-    }
-    if (queryParam) {
-      searchBox.value = queryParam;
-    }
-    if (faseParam || queryParam) {
-      aplicarFiltros();
-    }
+    if (faseParam) faseSelect.value = faseParam;
+    if (queryParam) searchBox.value = queryParam;
+    if (cicloParam) cicloSelect.value = cicloParam;
+
+    if (faseParam || queryParam || cicloParam) aplicarFiltros();
   })
   .catch((error) => {
     console.error("Error:", error);
@@ -114,7 +132,10 @@ function renderDocuments(docs) {
     return;
   }
 
-  const fasesOrden = ["iniciación", "ciclo-1", "seguimiento","requerimientos","planeacion","diseño","implementacion,pruebas,post-mortem"];
+  const fasesOrden = [
+    "iniciación", "ciclo-1", "seguimiento",
+    "requerimientos", "planeacion", "diseño", "implementacion,pruebas,post-mortem"
+  ];
   const grouped = {};
 
   docs.forEach((doc) => {
@@ -144,38 +165,19 @@ function renderDocuments(docs) {
         let previewLink = doc.ruta;
         let downloadLink = doc.ruta;
 
-        // Detectar tipo de archivo en Google
-        if (doc.ruta.includes("drive.google.com")) {
-          const match = doc.ruta.match(/[-\w]{25,}/);
-          if (match) {
-            const fileId = match[0];
-            previewLink = `https://drive.google.com/file/d/${fileId}/preview`;
-            downloadLink = `https://drive.google.com/uc?export=download&id=${fileId}`;
-          }
-        }
-        if (doc.ruta.includes("docs.google.com/document")) {
-          const match = doc.ruta.match(/[-\w]{25,}/);
-          if (match) {
-            const fileId = match[0];
-            previewLink = `https://docs.google.com/document/d/${fileId}/preview`;
+        // Detectar tipo de archivo
+        const match = doc.ruta.match(/[-\w]{25,}/);
+        if (match) {
+          const fileId = match[0];
+          if (doc.ruta.includes("document"))
+            previewLink = `https://docs.google.com/document/d/${fileId}/preview`,
             downloadLink = `https://docs.google.com/document/d/${fileId}/export?format=pdf`;
-          }
-        }
-        if (doc.ruta.includes("docs.google.com/spreadsheets")) {
-          const match = doc.ruta.match(/[-\w]{25,}/);
-          if (match) {
-            const fileId = match[0];
-            previewLink = `https://docs.google.com/spreadsheets/d/${fileId}/preview`;
+          else if (doc.ruta.includes("spreadsheets"))
+            previewLink = `https://docs.google.com/spreadsheets/d/${fileId}/preview`,
             downloadLink = `https://docs.google.com/spreadsheets/d/${fileId}/export?format=pdf`;
-          }
-        }
-        if (doc.ruta.includes("docs.google.com/presentation")) {
-          const match = doc.ruta.match(/[-\w]{25,}/);
-          if (match) {
-            const fileId = match[0];
-            previewLink = `https://docs.google.com/presentation/d/${fileId}/preview`;
+          else if (doc.ruta.includes("presentation"))
+            previewLink = `https://docs.google.com/presentation/d/${fileId}/preview`,
             downloadLink = `https://docs.google.com/presentation/d/${fileId}/export/pdf`;
-          }
         }
 
         card.innerHTML = `
@@ -186,6 +188,7 @@ function renderDocuments(docs) {
               ? doc.etapa_de_desarrollo.join(", ")
               : doc.etapa_de_desarrollo
           }</p>
+          <p><b>Ciclo:</b> ${doc.ciclo || "N/A"}</p>
           <div class="botones">
             <a href="${previewLink}" target="_blank" class="btn abrir">Abrir</a>
             <a href="${downloadLink}" target="_blank" class="btn descargar">Descargar</a>
