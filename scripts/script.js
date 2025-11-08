@@ -26,7 +26,7 @@ fetch("./data/data.json")
     // --- Insertar filtros ---
     const fasesOrden = [
       "iniciación", "ciclo-1", "seguimiento", "requerimientos",
-      "planeacion", "diseño", "implementacion,pruebas,post-mortem"
+      "planeacion", "diseño", "implementacion","pruebas","post-mortem"
     ];
     const filtrosContainer = document.createElement("div");
     filtrosContainer.className = "busqueda-filtros";
@@ -134,7 +134,7 @@ function renderDocuments(docs) {
 
   const fasesOrden = [
     "iniciación", "ciclo-1", "seguimiento",
-    "requerimientos", "planeacion", "diseño", "implementacion,pruebas,post-mortem"
+    "requerimientos", "planeacion", "diseño", "implementacion","pruebas","post-mortem"
   ];
   const grouped = {};
 

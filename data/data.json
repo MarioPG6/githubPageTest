@@ -1216,6 +1216,221 @@
       "fecha": "2025-10-09",
       "etapa_de_desarrollo": "post-mortem",
       "ciclo": 1
+    },
+    {
+      "id": "MC1",
+      "titulo": "SCRIPT: Actualización de documentos semana 1-2 (CICLO 2)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/174MLiMPYwLvocEYYK2Z6udQw7uchdTV-/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "ciclo": 2
+    },
+    {
+      "id": "MC2",
+      "titulo": "PLAN DE ADMINISTRACIÓN DE CONFIGURACIÓN Y CONTROL DE CAMBIOS (CICLO 2)",
+      "version": 2.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/128XHwTUhGuC--Yed5lHQYuPAJtP4575m/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "ciclo": 2
+    },
+    {
+      "id": "MC3",
+      "titulo": "ACTA DE INICIACIÓN DEL PROYECTO (CICLO 2)",
+      "version": 2.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1eR_KPrX3X5aUIUq9RBwwmEhMoF5UuZR5/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "ciclo": 2
+    },
+    {
+      "id": "MC4",
+      "titulo": "Resumen semanal semana 1-2 (CICLO 2)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://drive.google.com/file/d/1YW-7TK8ukMcYfig72U7OHgjwx6f2lbtf/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "ciclo": 2
+    },
+    {
+      "id": "MC5",
+      "titulo": "PLAN DE MANEJO DE RIESGOS (ciclo 2)",
+      "version": 2.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1uNg777DA74JonWUA6I-OZ9bBWT6oSOuV/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "ciclo": 2
+    },
+    {
+      "id": "MC6",
+      "titulo": "Bitacora de tiempo Soporte (S1-S2) (ciclo 2)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1A-7lDAllDhh0SIojkX6oDk6APK0zrzmB/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "ciclo": 2
+    },
+    {
+      "id": "MC7",
+      "titulo": "Bitacora de tiempo calidad (S1-S2) (ciclo 2)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1Z_a_T5QeBQhjJqaVzPDyGrZWsD1oouE7/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "ciclo": 2
+    },
+    {
+      "id": "MC8",
+      "titulo": "Bitacora de tiempo planeación (S1-S2) (ciclo 2)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1SP-nlQPBfUBhQyXIZwaRvgyuRFPITTJ1/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "ciclo": 2
+    },
+    {
+      "id": "MC9",
+      "titulo": "Bitacora de tiempo lider (S1-S2) (ciclo 2)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/19ANZLBmVr95wZqc2uYEtUDKRZ9sv_R-c/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "ciclo": 2
+    },
+    {
+      "id": "MS1",
+      "titulo": "Script: requerimientos-planeación (ciclo 2)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1gpkbqNpfARu0uoov5_82yWBI31_J_e17/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["requerimientos","planeacion"],
+      "ciclo": 2
+    },
+    {
+      "id": "MS2",
+      "titulo": "resumen: requerimientos-planeación (ciclo 2)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://drive.google.com/file/d/1NmKvcUHlb7hRoLaJFkXEBjXbdUhN0PH_/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-10-09",
+      "etapa_de_desarrollo":["requerimientos","planeacion"],
+      "ciclo": 2
+    },
+    {
+      "id": "DU1",
+      "titulo": "DETALLES CASOS DE USO (SOPORTE) ciclo 2",
+      "version": 2.0,
+      "roles": [
+        "general",
+        "lider-de-soporte"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1VG3ym0G1rSkSujZS_OMCYcHX4MPMEYZm/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": ["requerimientos","planeacion"],
+      "ciclo": 2
+    },
+    {
+      "id": "DU1",
+      "titulo": "DETALLES CASOS DE USO (CALIDAD) ciclo 2",
+      "version": 2.0,
+      "roles": [
+        "general",
+        "lider-de-calidad"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1zQbtuzLmeTtkh0da5NHX_cdmFROwazsT/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": ["requerimientos","planeacion"],
+      "ciclo": 2
+    },
+    {
+      "id": "DU1",
+      "titulo": "DETALLES CASOS DE USO (LIDER EQUIPO) ciclo 2",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-equipo"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1OikC9Xb0VlJwQh5LlxqUYmKSy1ZJZM36/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": ["requerimientos","planeacion"],
+      "ciclo": 2
+    },
+    {
+      "id": "DU3",
+      "titulo": "DETALLES CASOS DE USO (PLANEACIÓN) ciclo 2",
+      "version": 1.0,
+      "roles": [
+        "general",
+        "lider-de-planeacion"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1uVd5t7XQfjXHIGOawp5NA5YNkYMrHFd6/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-09-03",
+      "etapa_de_desarrollo": ["requerimientos","planeacion"],
+      "ciclo": 2
     }
+
   ]
 }
