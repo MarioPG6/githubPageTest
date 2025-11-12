@@ -1228,7 +1228,10 @@
       "ruta": "https://docs.google.com/document/d/174MLiMPYwLvocEYYK2Z6udQw7uchdTV-/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "etapa_de_desarrollo": [
+        "iniciación",
+        "ciclo-1"
+      ],
       "ciclo": 2
     },
     {
@@ -1242,7 +1245,10 @@
       "ruta": "https://docs.google.com/document/d/128XHwTUhGuC--Yed5lHQYuPAJtP4575m/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "etapa_de_desarrollo": [
+        "iniciación",
+        "ciclo-1"
+      ],
       "ciclo": 2
     },
     {
@@ -1256,7 +1262,10 @@
       "ruta": "https://docs.google.com/document/d/1eR_KPrX3X5aUIUq9RBwwmEhMoF5UuZR5/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "etapa_de_desarrollo": [
+        "iniciación",
+        "ciclo-1"
+      ],
       "ciclo": 2
     },
     {
@@ -1270,7 +1279,10 @@
       "ruta": "https://drive.google.com/file/d/1YW-7TK8ukMcYfig72U7OHgjwx6f2lbtf/view?usp=drive_link",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "etapa_de_desarrollo": [
+        "iniciación",
+        "ciclo-1"
+      ],
       "ciclo": 2
     },
     {
@@ -1284,7 +1296,10 @@
       "ruta": "https://docs.google.com/document/d/1uNg777DA74JonWUA6I-OZ9bBWT6oSOuV/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "etapa_de_desarrollo": [
+        "iniciación",
+        "ciclo-1"
+      ],
       "ciclo": 2
     },
     {
@@ -1298,7 +1313,10 @@
       "ruta": "https://docs.google.com/document/d/1A-7lDAllDhh0SIojkX6oDk6APK0zrzmB/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "etapa_de_desarrollo": [
+        "iniciación",
+        "ciclo-1"
+      ],
       "ciclo": 2
     },
     {
@@ -1312,7 +1330,10 @@
       "ruta": "https://docs.google.com/document/d/1Z_a_T5QeBQhjJqaVzPDyGrZWsD1oouE7/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "etapa_de_desarrollo": [
+        "iniciación",
+        "ciclo-1"
+      ],
       "ciclo": 2
     },
     {
@@ -1326,7 +1347,10 @@
       "ruta": "https://docs.google.com/document/d/1SP-nlQPBfUBhQyXIZwaRvgyuRFPITTJ1/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "etapa_de_desarrollo": [
+        "iniciación",
+        "ciclo-1"
+      ],
       "ciclo": 2
     },
     {
@@ -1340,7 +1364,10 @@
       "ruta": "https://docs.google.com/document/d/19ANZLBmVr95wZqc2uYEtUDKRZ9sv_R-c/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["iniciación","ciclo-1"],
+      "etapa_de_desarrollo": [
+        "iniciación",
+        "ciclo-1"
+      ],
       "ciclo": 2
     },
     {
@@ -1354,7 +1381,10 @@
       "ruta": "https://docs.google.com/document/d/1gpkbqNpfARu0uoov5_82yWBI31_J_e17/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["requerimientos","planeacion"],
+      "etapa_de_desarrollo": [
+        "requerimientos",
+        "planeacion"
+      ],
       "ciclo": 2
     },
     {
@@ -1368,7 +1398,10 @@
       "ruta": "https://drive.google.com/file/d/1NmKvcUHlb7hRoLaJFkXEBjXbdUhN0PH_/view?usp=drive_link",
       "destacado": false,
       "fecha": "2025-10-09",
-      "etapa_de_desarrollo":["requerimientos","planeacion"],
+      "etapa_de_desarrollo": [
+        "requerimientos",
+        "planeacion"
+      ],
       "ciclo": 2
     },
     {
@@ -1383,7 +1416,10 @@
       "ruta": "https://docs.google.com/document/d/1VG3ym0G1rSkSujZS_OMCYcHX4MPMEYZm/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-09-03",
-      "etapa_de_desarrollo": ["requerimientos","planeacion"],
+      "etapa_de_desarrollo": [
+        "requerimientos",
+        "planeacion"
+      ],
       "ciclo": 2
     },
     {
@@ -1398,7 +1434,10 @@
       "ruta": "https://docs.google.com/document/d/1zQbtuzLmeTtkh0da5NHX_cdmFROwazsT/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-09-03",
-      "etapa_de_desarrollo": ["requerimientos","planeacion"],
+      "etapa_de_desarrollo": [
+        "requerimientos",
+        "planeacion"
+      ],
       "ciclo": 2
     },
     {
@@ -1413,7 +1452,10 @@
       "ruta": "https://docs.google.com/document/d/1OikC9Xb0VlJwQh5LlxqUYmKSy1ZJZM36/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-09-03",
-      "etapa_de_desarrollo": ["requerimientos","planeacion"],
+      "etapa_de_desarrollo": [
+        "requerimientos",
+        "planeacion"
+      ],
       "ciclo": 2
     },
     {
@@ -1428,9 +1470,151 @@
       "ruta": "https://docs.google.com/document/d/1uVd5t7XQfjXHIGOawp5NA5YNkYMrHFd6/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
       "destacado": false,
       "fecha": "2025-09-03",
-      "etapa_de_desarrollo": ["requerimientos","planeacion"],
+      "etapa_de_desarrollo": [
+        "requerimientos",
+        "planeacion"
+      ],
+      "ciclo": 2
+    },
+    {
+      "id": "DC1",
+      "titulo": "Script Diseño Ciclo 2",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/14Rl731Lr6V5SCl1IoYh-GVtfRJFU63l2/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-11-11",
+      "etapa_de_desarrollo": "diseño",
+      "ciclo": 2
+    },
+    {
+      "id": "DC2",
+      "titulo": "Decisiones de Arquitectura Ciclo 2 (LIDER DE PLANEACION)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/14PXnXkQOITNR3_fV3aGW2VOnMNLvomFe/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-11-11",
+      "etapa_de_desarrollo": "diseño",
+      "ciclo": 2
+    },
+     {
+      "id": "DC3",
+      "titulo": "Diagrama de contexto Ciclo 2",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://drive.google.com/file/d/1WX2iOotgkpV14JoCG6J1zoEyuqJXatgI/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-11-11",
+      "etapa_de_desarrollo": "diseño",
+      "ciclo": 2
+    },
+    {
+      "id": "DC4",
+      "titulo": "Especificiones de diseño Ciclo 2",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1Da4XFYrzKFaPWglC2THaiS9kr2mo4oez/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-11-11",
+      "etapa_de_desarrollo": "diseño",
+      "ciclo": 2
+    },
+    {
+      "id": "DC5",
+      "titulo": "arbol de utilidades Ciclo 2",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://drive.google.com/file/d/1fqol4LXgiq665MxKsY3ExQhdRJSIeHnI/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-11-11",
+      "etapa_de_desarrollo": "diseño",
+      "ciclo": 2
+    },
+    {
+      "id": "DC6",
+      "titulo": "Diagrma de información Ciclo 2",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://drive.google.com/file/d/12P5njwHpqfjLpb72yZ4f0JKuVCfF74k8/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-11-11",
+      "etapa_de_desarrollo": "diseño",
+      "ciclo": 2
+    },
+    {
+      "id": "DC7",
+      "titulo": "Decisiones de Arquitectura Ciclo 2 (LIDER DE EQUIPO)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1mPcTLzrOimfIDcqbcb44i34jTzdINq7B/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-11-11",
+      "etapa_de_desarrollo": "diseño",
+      "ciclo": 2
+    },
+    {
+      "id": "DC8",
+      "titulo": "Decisiones de Arquitectura Ciclo 2 (LIDER DE CALIDAD)",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://docs.google.com/document/d/1xzmIeAExGFc2fKOruiwdksj21pyaGSBJ/edit?usp=drive_link&ouid=111098676110645290325&rtpof=true&sd=true",
+      "destacado": false,
+      "fecha": "2025-11-11",
+      "etapa_de_desarrollo": "diseño",
+      "ciclo": 2
+    },
+    {
+      "id": "DC9",
+      "titulo": "Diagrma de bases de datos Ciclo 2",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://drive.google.com/file/d/1K_1hQd_2f37ntY47JyhZZ4z2jadDgLIe/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-11-11",
+      "etapa_de_desarrollo": "diseño",
+      "ciclo": 2
+    },
+    {
+      "id": "DC10",
+      "titulo": "Diagrma de clases Ciclo 2",
+      "version": 1.0,
+      "roles": [
+        "general"
+      ],
+      "tipo": "google-doc",
+      "ruta": "https://drive.google.com/file/d/1AmfRBzJzJuByJIyKBQccCyQgAnpCYr2s/view?usp=drive_link",
+      "destacado": false,
+      "fecha": "2025-11-11",
+      "etapa_de_desarrollo": "diseño",
       "ciclo": 2
     }
-
   ]
 }
